@@ -1,4 +1,9 @@
 a {
-  font-family: arial;
+  font-family: Lucida Sans Unicode;
   font-size:1.25vw;
+}
+
+h1 {
+  font-family: Lucida Sans Unicode;
+  font-size:3vw;
 }
