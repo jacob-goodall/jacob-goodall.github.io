@@ -1,3 +1,32 @@
 body {
       background-color: #3870b7;
     }
+
+h1 {
+    margin: 5px;
+    font-size: 40px;
+    padding-bottom: 12.5px;
+    
+}
+h2 {
+    font-size:20px;
+    margin: 5px;
+    margin-bottom: 7.5px;
+}
+
+
+
+p {
+    margin 5px;
+    font-size:10px;
+}
+
+
+footer {
+    object-position: bottom;
+    bottom: 0;
+    left: 0;
+    overflow: hidden;
+    position: fixed; 
+    
+}
