@@ -1,5 +1,6 @@
 body {
       background-color: #6699ff;
+    
     }
 
 h1 {
@@ -9,7 +10,7 @@ h1 {
     
 }
 h2 {
-    font-size:20px;
+    font-size:15px;
     margin: 5px;
     margin-bottom: 7.5px;
 }
@@ -17,16 +18,48 @@ h2 {
 
 
 p {
-    margin 5px;
-    font-size:10px;
+    margin 0;
+    font-size:7.5px;
 }
 
 
 footer {
     object-position: bottom;
     bottom: 0;
-    left: 0;
+    left 0;
     overflow: hidden;
     position: fixed; 
+    margin-left: 5px;
+     
+}
+
+.linkstome {
+    
+    font-size:15px;
+    margin: 5px;
+    margin-bottom: 7.5px;
+    
+}
+
+header {
+    
+    margin-left: 5px;
+    font-size: 5px;
+}
+
+/* Link colors and settings */
+
+a:link{
+    
+}
+
+a:visited{
+    
+}
+
+a:hover{
+    
+}
+a:active{
     
 }
