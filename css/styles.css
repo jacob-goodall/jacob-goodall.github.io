@@ -1,10 +1,14 @@
+
 body {
-      background-color: #6699ff;
-    
+        background-color: gainsboro;
+        margin:0;
+        font-family: Lucida Sans Unicode;
+
     }
 
 h1 {
-    margin: 5px;
+    margin: 0;
+    padding-left: 7px;
     font-size: 40px;
     padding-bottom: 12.5px;
     
@@ -13,6 +17,7 @@ h2 {
     font-size:15px;
     margin: 5px;
     margin-bottom: 7.5px;
+    padding-left: 7px;
 }
 
 
@@ -24,40 +29,47 @@ p {
 
 
 footer {
+    padding-left: 7px;
     object-position: bottom;
     bottom: 0;
     left 0;
     overflow: hidden;
     position: fixed; 
-    margin-left: 5px;
+    
      
 }
 
 .linkstome {
-    
+    padding-left: 7px;
     font-size:15px;
-    margin: 5px;
     margin-bottom: 7.5px;
     
 }
 
 header {
+    border-bottom: 2px solid white;
+    background-color: lightslategray;
+    color: white;
+    font-size: 12.5px;
+    padding: 5px;
+    padding-left: 7px;
     
-    margin-left: 5px;
-    font-size: 5px;
 }
 
 /* Link colors and settings */
 
 a:link{
+    color: black;
     
 }
 
 a:visited{
+    color: black;
     
 }
 
 a:hover{
+    color: dimgray;
     
 }
 a:active{
