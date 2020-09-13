@@ -1,0 +1,126 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: cadetblue;
+    
+    
+}
+
+header
+{
+    background-image:url(pic1.jpg);url(pic1.jpg);
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+    
+}
+
+.main-nav
+{
+    background-color: rgba(77, 146, 255, 0.75);
+    float: left; 
+    list-style: none;
+    margin-top: 30px;
+}
+
+.main-nav li
+{
+    display: inline-block;
+    
+    
+}
+
+.main-nav li a
+{
+    color: beige;
+    text-decoration: none;
+    padding: 5px 20px;
+    font-family: "Roboto";
+    font-size: 20px;
+    
+}
+.main-nav li.active a
+{
+    border: 1px solid white;
+    
+}
+
+.main-nav li a:hover
+{
+    border: 1px solid black;
+}
+
+.logo img
+{
+    width: 150px;
+        height:auto;
+    float: right;
+}
+.body
+{
+    font-family: monospace;
+}
+
+
+.row
+{
+max-width: 1200px;
+    margin:auto;
+
+}
+
+.hero
+{
+    position: absolute;
+    width: 1200px;
+    margin left: 0;
+    margin top: 0;
+    
+}
+
+h1
+{
+    background-color: rgba(77, 146, 255, 0.9);
+    color: beige;
+    text-transform: uppercase;
+    text-align: center;
+    margin-top: 350px;
+    margin-left: 10.5vw;
+    
+
+    font-size: 50px;
+    width: 575px;
+}
+.button
+{   
+    margin-top: 25vw;
+    margin-bottom: 5vw;
+ margin-left: 600px;
+    font-size: 60px;
+    
+    
+    
+}
+.btn
+{
+    
+    padding: 10px 30px;
+    color:white;
+    
+}
+
+.btn-one
+{
+    background-color: rgba(77, 146, 255, 0.5);
+    font-family:"Cursive";
+}
+.bnt-two
+{
+    background-color: darkorange;
+    font-fam
+}
+
