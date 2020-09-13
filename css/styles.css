@@ -1,3 +1,5 @@
+/* Main Page/404 CSS File  */
+
 
 body {
         background-color: gainsboro;
@@ -70,8 +72,5 @@ a:visited{
 
 a:hover{
     color: dimgray;
-    
-}
-a:active{
     
 }
