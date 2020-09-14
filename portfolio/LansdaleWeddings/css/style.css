@@ -2,11 +2,14 @@
 {
     margin: 0;
     padding: 0;
+    
 }
 
 body{
     background-color: cadetblue;
     background-image: url("pic1.jpg");
+    background-size: 100%;
+    
     
     
 }
@@ -17,6 +20,7 @@ header
     background-size: cover;
     background-position: center;
     
+    
 }
 
 .main-nav
@@ -25,6 +29,7 @@ header
     float: left; 
     list-style: none;
     margin-top: 30px;
+    border-radius: 7.5px;
 }
 
 .main-nav li
@@ -59,6 +64,7 @@ header
     width: 150px;
         height:auto;
     float: right;
+    border-radius: 5px;
 }
 .body
 {
@@ -90,37 +96,11 @@ h1
     text-align: center;
     margin-top: 350px;
     margin-left: 10.5vw;
+    border-radius: 15px;
     
 
     font-size: 50px;
     width: 575px;
 }
-.button
-{   
-    margin-top: 25vw;
-    margin-bottom: 5vw;
- margin-left: 600px;
-    font-size: 60px;
-    
-    
-    
-}
-.btn
-{
-    
-    padding: 10px 30px;
-    color:white;
-    
-}
 
-.btn-one
-{
-    background-color: rgba(77, 146, 255, 0.5);
-    font-family:"Cursive";
-}
-.bnt-two
-{
-    background-color: darkorange;
-    font-fam
-}
 
