@@ -12,7 +12,7 @@ body{
 
 header
 {
-    background-image: url(pic1.gif);
+    background-image: url("pic1.jpg");
     background-size: cover;
     background-position: center;
     
