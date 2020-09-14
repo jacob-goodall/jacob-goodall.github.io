@@ -6,13 +6,14 @@
 
 body{
     background-color: cadetblue;
+    background-image: url("pic1.jpg");
     
     
 }
 
 header
 {
-    background-image: url("pic1.jpg");
+    
     background-size: cover;
     background-position: center;
     
