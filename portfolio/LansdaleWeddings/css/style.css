@@ -12,8 +12,7 @@ body{
 
 header
 {
-    background-image:url(pic1.jpg);url(pic1.jpg);
-    height: 100vh;
+    background-image: url(pic1.gif);
     background-size: cover;
     background-position: center;
     
