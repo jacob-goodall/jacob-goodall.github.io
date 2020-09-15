@@ -3,6 +3,11 @@
 a {
   font-family: Lucida Sans Unicode;
   font-size:1vw;
+  
+}
+body{
+    line-height: 1.5vw;
+
 }
 
 h1 {
