@@ -1,0 +1,15 @@
+[0915/123616.857:ERROR:broker_win.cc(55)] Error reading broker pipe: The pipe has been ended. (0x6D)
+[0915/123616.857:ERROR:broker_win.cc(55)] Error reading broker pipe: The pipe has been ended. (0x6D)
+[0915/123616.858:ERROR:broker_win.cc(137)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[0915/123616.858:INFO:GrGLUtil.cpp(253)] nullptr GLSL version string.
+[0915/123616.858:ERROR:broker_win.cc(137)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[0915/123616.859:INFO:GrGLUtil.cpp(253)] nullptr GLSL version string.
+[0915/123616.858:ERROR:broker_win.cc(55)] Error reading broker pipe: The pipe has been ended. (0x6D)
+[0915/123616.859:ERROR:broker_win.cc(137)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[0915/123616.860:INFO:GrGLUtil.cpp(253)] nullptr GLSL version string.
+[0915/123616.861:ERROR:broker_win.cc(137)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[0915/123616.861:ERROR:command_buffer_proxy_impl.cc(92)] ContextResult::kFatalFailure: AllocateAndMapSharedMemory failed
+[0915/123616.861:ERROR:broker_win.cc(137)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[0915/123616.862:ERROR:command_buffer_proxy_impl.cc(92)] ContextResult::kFatalFailure: AllocateAndMapSharedMemory failed
+[0915/123616.862:ERROR:broker_win.cc(137)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[0915/123616.862:ERROR:command_buffer_proxy_impl.cc(92)] ContextResult::kFatalFailure: AllocateAndMapSharedMemory failed
