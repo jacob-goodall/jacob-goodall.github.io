@@ -25,7 +25,7 @@ h2 {
 
 
 p {
-    margin 0;
+    margin: 0;
     font-size:7.5px;
 }
 
@@ -34,7 +34,7 @@ footer {
     padding-left: 7px;
     object-position: bottom;
     bottom: 0;
-    left 0;
+    left: 0;
     overflow: hidden;
     position: fixed; 
     
