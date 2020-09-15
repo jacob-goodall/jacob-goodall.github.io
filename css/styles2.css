@@ -9,3 +9,22 @@ h1 {
   font-family: Lucida Sans Unicode;
   font-size:2vw;
 }
+
+a:link{
+  color: black;
+  
+}
+
+a:visited{
+  color: black;
+  
+}
+
+a:hover{
+  color: dimgray;
+  
+}
+
+body {
+  background-color: gainsboro;
+}
