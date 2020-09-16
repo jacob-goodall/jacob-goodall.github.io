@@ -45,7 +45,9 @@ footer {
     padding-left: 7px;
     font-size:15px;
     margin-bottom: 7.5px;
-    
+}
+li {
+    margin-bottom: 4px;
 }
 
 header {
