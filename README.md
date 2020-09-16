@@ -3,13 +3,18 @@ https://goodall.one/
 
 Working Subpages as of at 26/08/2020
 
-/Images
-/test
-/documents
-/livestreaming
-/easteregg
-/about
-/css
+goodall.one/Images
+goodall.one/test
+goodall.one/documents
+goodall.one/livestreaming
+goodall.one/easteregg
+goodall.one/about
+goodall.one/css
+goodall.one/redditmcstatus
+goodall.one/portfolio
+goodall.one/sdr
+goodall.one/napiernats2019photos
+goodall.one/birthday
 
 Testings/Planing log
 
