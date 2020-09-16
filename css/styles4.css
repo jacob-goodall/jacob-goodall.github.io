@@ -1,0 +1,76 @@
+/* Main Page/404 CSS File  */
+
+
+body {
+    background-color: gainsboro;
+    margin:0;
+    font-family: Lucida Sans Unicode;
+
+}
+
+h1 {
+margin: 0;
+padding-left: 7px;
+font-size: 40px;
+padding-bottom: 12.5px;
+
+}
+
+
+h3{
+    font-size: 15px; 
+    padding-left: 7px;
+    margin-bottom: 20px;
+}
+
+p {
+margin: 0;
+font-size:7.5px;
+}
+
+
+footer {
+padding-left: 7px;
+object-position: bottom;
+bottom: 0;
+left: 0;
+overflow: hidden;
+position: fixed; 
+
+ 
+}
+
+.linkstome {
+padding-left: 7px;
+font-size:15px;
+margin-bottom: 7.5px;
+
+}
+
+header {
+border-bottom: 2px solid white;
+background-color: lightslategray;
+color: white;
+font-size: 12.5px;
+padding: 5px;
+padding-left: 7px;
+
+}
+
+
+/* Link colors and settings */
+
+a:link{
+color: black;
+
+}
+
+a:visited{
+color: black;
+
+}
+
+a:hover{
+color: dimgray;
+
+}
