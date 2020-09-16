@@ -12,12 +12,13 @@ h1 {
     
     padding-left: 10.75px;
     font-size: 40px;
-    padding-bottom: 12.5px;
+    margin-top: 10px;
+    margin-bottom: 15px;
     
 }
 h2 {
     font-size:15px;
-    
+
     margin-bottom: 7.5px;
     padding-left: 7px;
 }
