@@ -25,7 +25,7 @@ goodall.one/sdr
 
 goodall.one/napiernats2019photos
 
-goodall.one/birthday
+goodall.one/christmas
 
 Testings/Planing log
 
