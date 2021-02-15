@@ -5,6 +5,8 @@ body {
         background-color: gainsboro;
         margin:0;
         font-family: Lucida Sans Unicode;
+        ;
+       
 
     }
 
@@ -17,6 +19,9 @@ h1 {
 }
 
 
+
+
+
 h2 {
     font-size:15px;
     margin-left: 9px;
@@ -26,6 +31,7 @@ h2 {
 ul {
     padding-left: 7px;
     padding: 0px;
+    display:block;
 }
 
 
@@ -51,12 +57,13 @@ footer {
 li {
     margin-bottom: 4px;
     margin-left: 7px;
+    display:block;
 }
 
 header {
     border-bottom: 2px solid white;
     background-color: lightslategray;
-    color: white;
+    color: dimgray;
     font-size: 12.5px;
     padding: 5px;
     padding-left: 7px;
@@ -65,19 +72,33 @@ header {
 
 
 
+.dark-mode {
+    background-color: black;
+    color: white;
+  }
 /* Link colors and settings */
+ 
+#links .linking {
+    background-color:gainsboro;
+    border-radius: 5px;
+    padding: 5px 5px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    
+}
 
-a:link{
+#links2 .linking {
+    background-color: gainsboro;
+    border-radius: 5px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    
+}
+
+a {
     color: black;
-    
+
 }
 
-a:visited{
-    color: black;
-    
-}
-
-a:hover{
-    color: dimgray;
-    
-}

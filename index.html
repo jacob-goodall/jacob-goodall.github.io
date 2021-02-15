@@ -4,6 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <link rel="stylesheet" href=/css/styles.css>
+<ul type="text/javascript" src="script.js"></ul>
 <title>
   Jacob Goodall
 </title>
@@ -24,31 +25,44 @@
 <h1>Jacob Goodall</h1>
 
 </section>
+
 <!-- Main page Selection -->
 <ul>
-    <li><a href="/about/">About Me</a> </li>
-    
-    
-    <li><a href="/portfolio/">Portfolio</a></li>
-    
-    
-    <li><a href="/documents/">Documents</a></li>
-    
-    
-    <li><a href="/napiernats2019photos/">Open Skiff 2019 Nats Drone Photo's</a></li>
-<ul>
+  <div id="links">
+    <div class="linking"> <li><a href="/about/" class="firstStyle">About Me</a> </li></div>
+      
+      
+    <div class="linking"> <li><a href="/portfolio/" class="firstStyle" >Portfolio</a></li></div>
+      
+      
+    <div class="linking"> <li><a href="/documents/" class="firstStyle" >Documents</a></li></div>
+      
+      
+    <div class="linking"> <li><a href="/napiernats2019photos/" class="firstStyle" >Open Skiff 2019 Nats Drone Photo's</a></li></div>
+  </div>
+</ul>
+
 
 <!-- Email us and endnote -->
+</body>
+
+
 
 <footer>
-  <p>
-  <a href="https://www.w3schools.com" target="_blank" title="Go to W3Schools Resource">Link to Learning Resource</a></p>
-  <p> <a href="mailto:jake.goodall@icloud.com?subject=Mail%20from%20The%20Website">Email Us</a> </p>
+<div id="links2">
+  <div class="linking"> <p> <a href="https://www.w3schools.com" target="_blank" title="Go to W3Schools Resource">Link to Learning Resource</a> </p> </div>
+  <div class="linking"> <p> <a id="home" class="div" href="mailto:jake.goodall@icloud.com?subject=Mail%20from%20The%20Website">Email Us</a> </p></div>
+</div>
+<button onclick="myFunction()">Toggle dark mode</button>
   
-  <span style='font-size:12.5px'>&#9728;</span>
+<script>
+  function myFunction() {
+    var element = document.body;
+    element.classList.toggle("dark-mode");
+  } 
+</script>
 
 </footer>
-</body>
 </html>
 
 <!-- site created by Jacob Goodall (eary157), Hosted by github, Google Domains.
